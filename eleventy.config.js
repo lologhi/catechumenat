@@ -75,10 +75,10 @@ export default async function(eleventyConfig) {
 			limit: 10,
 		},
 		metadata: {
-			language: "en",
-			title: "Blog Title",
+			language: "fr",
+			title: "Catéchuménat à Saint-Nicolas-des-Champs",
 			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			base: "https://catechumenat.asaintnicolas.com/",
 			author: {
 				name: "Your Name"
 			}
